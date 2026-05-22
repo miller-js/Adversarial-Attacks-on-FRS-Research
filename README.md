@@ -36,12 +36,6 @@ The paper also evaluates current mitigation strategies and discusses the transit
   - Liveness detection
   - Cryptographic protections
 
-# Paper
-
-The full paper can be found here:
-
-/paper/Master_Face_Attacks_on_Facial_Recognition_Systems.pdf
-
 # Disclaimer
 
 This repository is intended strictly for academic and research purposes.
@@ -49,10 +43,10 @@ The content is focused on understanding vulnerabilities in biometric systems in 
 
 # Authors
 
-Miller Swank
-Bruno Martin
-Griffin Vella
-Dakota Fedor
+- Miller Swank
+- Bruno Martin
+- Griffin Vella
+- Dakota Fedor
 
 Cybersecurity Department, Rochester Institute of Technology (RIT)
 ESL Global Cybersecurity Institute, Rochester, NY
