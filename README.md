@@ -48,5 +48,5 @@ The content is focused on understanding vulnerabilities in biometric systems in 
 - Griffin Vella
 - Dakota Fedor
 
-Cybersecurity Department, Rochester Institute of Technology (RIT) \n
+Cybersecurity Department, Rochester Institute of Technology (RIT) ---
 ESL Global Cybersecurity Institute, Rochester, NY
