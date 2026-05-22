@@ -16,7 +16,7 @@ The research focuses on:
 
 The paper also evaluates current mitigation strategies and discusses the transition from traditional single-factor facial recognition toward layered biometric security architectures.
 
-# Key Topics
+## Key Topics
 - Facial Recognition System (FRS) architectures
 - Deep learning-based biometric authentication
 - ArcFace and embedding-space vulnerabilities
@@ -36,17 +36,17 @@ The paper also evaluates current mitigation strategies and discusses the transit
   - Liveness detection
   - Cryptographic protections
 
-# Disclaimer
+## Disclaimer
 
 This repository is intended strictly for academic and research purposes.
 The content is focused on understanding vulnerabilities in biometric systems in order to improve defensive security measures and authentication system design.
 
-# Authors
+## Authors
 
 - Miller Swank
 - Bruno Martin
 - Griffin Vella
 - Dakota Fedor
 
-Cybersecurity Department, Rochester Institute of Technology (RIT)
+Cybersecurity Department, Rochester Institute of Technology (RIT) \n
 ESL Global Cybersecurity Institute, Rochester, NY
